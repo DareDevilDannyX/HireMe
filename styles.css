@@ -1,0 +1,16 @@
+html{
+    background:red;
+}
+img{
+    width:900px;
+}
+h1{
+    color:white;
+    background:black;
+    text-align:center;
+}
+p{
+    font-size:30px;
+    background:white;
+    text-align:center;
+}
